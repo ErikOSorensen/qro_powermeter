@@ -40,7 +40,9 @@ supplied externally if one removes an onboard resistor divider. 12 bit ADC on a 
 and with the AD8307 providing 25mV/dBm, this should be plenty of accuracy. 
 
 
+# Libraries used
 
+- Dan Halbert's [CircuitPython_LCD](https://github.com/dhalbert/CircuitPython_LCD)
 
 
 
